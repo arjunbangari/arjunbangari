@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/arjun-singh-8b93ab174/)](https://www.linkedin.com/in/arjun-singh-8b93ab174/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:sarjun99718@gmail.com)](mailto:sarjun99718@gmail.com)
 ![Badge](https://cp-logo.vercel.app/codechef/arjunbangari)
-![Badge](https://cp-logo.vercel.app/codeforces/arjunbangari)
+[![Badge](https://cp-logo.vercel.app/codeforces/arjunbangari)](https://codeforces.com/profile/arjunbangari)
 
 
 ## Technology Stack
