@@ -7,8 +7,8 @@
 
 
 ## Technology Stack
-[![C++](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=c++&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
-[![Python3](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=python3&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
+[![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
+[![Python3](https://img.shields.io/badge/-Python3-black?style=flat-square&logo=python3&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
 
 
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
