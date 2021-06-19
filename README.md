@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
+![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Expressjs)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arjunbangari&count_private=true&show_icons=true&include_all_commits=true)
 
