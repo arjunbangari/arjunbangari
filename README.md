@@ -8,6 +8,8 @@
 
 ## Technology Stack
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+
 [![Reactjs](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
 [![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/arjunbangari/)](https://github.com/arjunbangari/)
