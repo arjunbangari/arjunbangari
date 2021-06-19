@@ -20,7 +20,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB")
+![Expressjs](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB")
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=arjunbangari&count_private=true&show_icons=true&include_all_commits=true)
 
